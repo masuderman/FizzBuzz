@@ -2,7 +2,7 @@
 
 The following program is the FizzBuzz challenge in Java.
 Challenge:
--Write a program that prints the numebr from 1 to 100. For multiples of three print "Fizz"
+-Write a program that prints the number from 1 to 100. For multiples of three print "Fizz"
 instead of the number and for the multiples of five print "Buzz". For numbers which are
 multiples of both three and five print "FizzBuzz".
 
